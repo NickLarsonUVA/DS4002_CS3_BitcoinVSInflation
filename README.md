@@ -7,3 +7,10 @@ Access the Hook and Rubric PDFs to get started and understand your mission. The 
 
 ## Materials
 Four additional materials to guide and support you through the macroeconomic concepts and time series econometrics utilized in this case study are found in the `SUPPLEMENTARY MATERIALS` folder.
+1. Theory: Bitcoin: An inflation hedge but not a safe haven (Choi & Shin, 2022).
+
+2. Preparation: Introduction to Time Series Analysis (OpenStax).
+
+3. Modeling: Introduction to VAR Models (MathWorks, 2026).
+
+4. Selection: Probabilistic Model Selection with AIC, BIC, and MDL (Machine Learning Mastery).
