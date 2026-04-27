@@ -5,7 +5,7 @@ The present repository contains the directions, data, scripts, and reference mat
 ## Directions
 Access the Hook and Rubric PDFs to get started and understand the core objectives. The foundational code for the time series analysis is located in the `SCRIPTS` folder. The provided scripts contain the complete pipeline needed to handle data aggregation, test for stationarity, and construct the Vector Autoregression (VAR) model. 
 
-Execute and review the provided code to generate the necessary empirical results. To finish this case study, submit the final GitHub repository (elaborated in the Rubric) as a link that includes the final presentation slide deck.
+Execute and review the provided code to generate the necessary empirical results. To finish this case study, submit the final GitHub repository (elaborated in the Rubric) as a link that includes a final presentation slide deck.
 
 ## Reference materials
 Four additional materials to guide and support the macroeconomic concepts and time series econometrics utilized in this case study are found in the `SUPPLEMENTARY MATERIALS` folder.
