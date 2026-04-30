@@ -3,7 +3,7 @@
 The present repository contains the directions, data, scripts, and reference materials needed to complete this case study evaluating whether Bitcoin acts as a reliable macroeconomic hedge against inflation.
 
 ## Directions
-Access the Hook and Rubric PDFs to get started and understand the core objectives. The foundational code for the time series analysis is located in the `SCRIPTS` folder. The provided scripts contain the complete pipeline needed to handle data aggregation, test for stationarity, and construct the Vector Autoregression (VAR) model. 
+Access the Hook and Rubric PDFs to get started and understand the core objectives. The foundational code for the time series analysis is located in the `SCRIPTS` folder. The provided scripts contain the complete pipeline needed to handle data aggregation, test for stationarity, and construct the Vector Autoregression (VAR) model. In the `DATA` folder you will find a master dataset and the csv's that were used to create the master dataset. You will only need the master for this.
 
 Execute and review the provided code to generate the necessary empirical results. To finish this case study, submit the final GitHub repository (elaborated in the Rubric) as a link that includes a final presentation slide deck.
 
